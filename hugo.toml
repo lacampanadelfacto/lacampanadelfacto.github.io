@@ -1,4 +1,4 @@
-baseURL = 'https://lacamapanadelfactou.github.io'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'La Campana del Factou'
 theme = "hugo-theme-cleanwhite"
