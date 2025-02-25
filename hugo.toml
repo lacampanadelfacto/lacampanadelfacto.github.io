@@ -2,7 +2,6 @@ baseURL = 'https://lacamapanadelfactou.github.io'
 languageCode = 'en-us'
 title = 'La Campana del Factouuuuu'
 theme = "hugo-theme-cleanwhite"
-languageCode = "en-us"
 preserveTaxonomyNames = true
 hasCJKLanguage = true
 
