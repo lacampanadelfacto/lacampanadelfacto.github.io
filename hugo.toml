@@ -19,7 +19,7 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/bell.jpg"
+  header_image = "img/bell.webp"
   SEOTitle = "La Campana del Factou"
   description = "Campanas. Factous. Ding Dong"
   keyword = "Campana, Factou, Blog"
