@@ -4,7 +4,7 @@ title:      "Puto el que lo lea"
 subtitle:   "Más puto el que lo lea"
 date:       2025-02-25
 author:     "Ander"
-image:      "img/bell"
+image:      "img/bell.jpg"
 ---
 
 # Suena la campana por primera vez
