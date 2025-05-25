@@ -23,7 +23,7 @@ home = ["HTML", "RSS", "Algolia"]
   SEOTitle = "La Campana del Factou"
   description = "Campanas. Factous. Ding Dong"
   keyword = "Campana, Factou, Blog"
-  slogan = "Factous al son de la Campana"
+  slogan = "Campanas. Factous. Cling Clang"
   upstreamAttribution = true
 
   #image_404 = "img/404-bg.jpg"
